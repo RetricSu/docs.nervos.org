@@ -1,0 +1,20 @@
+@import '@css/customVariables.css';
+
+.box{
+  border-radius: 8px;
+  padding: 1.5em 1.5em 0.5em;
+  text-decoration: none !important;
+  background-color: var(--surface-accent);
+  color: var(--text-secondary) !important;
+  box-shadow: none;
+  border: 1px solid var(--border-subtle);
+  line-height: 1.7 !important;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.estimateTime{
+  margin-bottom: 2em;
+}
